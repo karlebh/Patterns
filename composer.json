@@ -1,0 +1,13 @@
+{
+    "name": "akeju/caleb",
+    "description": "Composer autoloading example",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+    	"psr-4": {
+    		"Caleb\\" : "src/"
+    	}
+    }
+}
